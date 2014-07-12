@@ -1,0 +1,9 @@
+## Interface: 50400
+## Title: ArenaRaidOrder
+## Notes: Order the raid frame: party1, party2 with the player on the top or the bottom. Also make the raid frames even more resizable.
+## Version: 1.00
+## Author: Mavvo
+## DefaultState: Enabled
+## SavedVariables: ArenaRaidOrderDB
+
+ArenaRaidOrder.lua
